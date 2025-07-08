@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! Eu sou a Priscila Kwiatkowski 💻🚀
 
-<!--
-**Priscilakw/priscilakw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Suporte e Desenvolvedora em formação apaixonada por tecnologia, dados e inovação.
 
-Here are some ideas to get you started:
+🎯 Experiência com:
+- Suporte técnico nível 2 (infra, redes, sistemas e cloud)
+- Desenvolvimento com Python + Django
+- ITIL, ferramentas de monitoramento e APIs REST
+- Cloud (AWS e Azure), WMS e integração com sistemas logísticos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Atualmente desenvolvendo um sistema web de gerenciamento de clientes em Django.
+
+🛠️ Techs favoritas: Python, Django, Git, Linux, Power BI, REST APIs
+
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/priscilakw) | priscilakw2@gmail.com
